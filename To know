@@ -1,0 +1,1 @@
+How does onClick() work on React Components? It's definitely NOT the same as attaching an onClick() directly to the element.
